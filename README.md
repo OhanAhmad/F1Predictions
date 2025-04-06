@@ -63,6 +63,6 @@ This project is licensed under the MIT License.
 🏎️ **Start predicting F1 races like a data scientist!** 🚀
 
 
-##Citation
+## Citation
 
 Inspiration and code derived from @mar-antaya
